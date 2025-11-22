@@ -2,7 +2,7 @@
 
 Unity 기반 AR 네비게이션 애플리케이션의 기술적 구현 문서입니다.
 
-![AR 네비게이션 데모](images/ar-navigation-demo.png)
+[![AR 네비게이션 데모](https://img.youtube.com/vi/nG_UFU4cgQs/maxresdefault.jpg)](https://youtube.com/shorts/nG_UFU4cgQs?si=utCypv0MNiWNfcWI)
 
 ## 기술 스택
 
@@ -128,7 +128,7 @@ ARKit 카메라 프레임 → PlatformSupport → ImmersalSDK → Localizer → 
 
 ### 4. AR 네비게이션
 
-![AR 네비게이션 경로 시각화](images/ar-navigation-demo.png)
+[![AR 네비게이션 경로 시각화](https://img.youtube.com/vi/nG_UFU4cgQs/maxresdefault.jpg)](https://youtube.com/shorts/nG_UFU4cgQs?si=utCypv0MNiWNfcWI)
 
 #### AR 경로 시각화
 
